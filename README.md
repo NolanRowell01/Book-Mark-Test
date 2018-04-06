@@ -1,2 +1,1 @@
-# Book-Mark-Test
-https://markb.co.uk/building-a-simple-google-chrome-extension.html
+Example code for my article on building a simple Google Chrome extension.
